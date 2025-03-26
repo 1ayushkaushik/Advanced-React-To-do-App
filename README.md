@@ -65,9 +65,6 @@ This project is an advanced To-Do application that incorporates modern features 
    - A Weather API key from WeatherAPI.
 
 2. **Clone the Repository**
-git clone  
-https://github.com/abhijit2607/Advanced-React-To-do-App   
-cd advanced-react-todo-app
 
 3. **Create React App**
 If the repository does not include pre-initialized React files, initialize a new React app:  
